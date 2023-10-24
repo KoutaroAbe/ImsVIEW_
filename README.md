@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is an example Maven project implementing an ImageJ2 command.
 
 For an example Maven project implementing an **original ImageJ plugin**, see:
@@ -65,3 +66,6 @@ How to use this project as a starting point
 
 This ensures that the final `.jar` file will also be copied
 into your ImageJ2 folder everytime you run the Maven build.
+=======
+# ImsVIEW
+>>>>>>> origin/main
